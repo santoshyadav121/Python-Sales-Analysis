@@ -1,6 +1,6 @@
 # Python-Sales-Analysis
 Performing an EDL exploratory data analysis on sales data containing sales files for each year  provided in csv format.
-Worked on mainly these ues-
+Worked on mainly these questions-
 Que1. What was the best month for sales? How much was earned that month?
 Que2. What city sold the most product?
 Que3. What time should we display advertisements to maximize the likelihood of customer’s buying product?
